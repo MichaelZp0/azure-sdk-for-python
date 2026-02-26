@@ -1,5 +1,11 @@
 # Release History
 
+## 1.1.0b3 (2026-02-26)
+
+### Other Changes
+
+  - Fixing error in the last release.
+
 ## 1.1.0b2 (2026-02-06)
 
 ### Other Changes
